@@ -3,7 +3,7 @@
 Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Desarrollador Web Junior Full Stack
+Desarrollador Web - Full Stack
 ------------------------
 
 Apasionado por la tecnología y el desarrollo web con más de 15 años de experiencia en gestión de equipos y organización. Recientemente, decidí seguir mi pasión por la informática y la programación, embarcándome en proyectos personales como el montaje de servidores de juegos y el dominio de lenguajes como HTML, CSS, JavaScript, React y Lua, junto con bases de datos SQL, MariaDB y herramientas como HeidiSQL. Actualmente, me encuentro inmerso en un bootcamp de desarrollo web fullstack, explorando aún más mis habilidades en tecnologías como React, Java y JavaScript mientras busco nuevas oportunidades profesionales en el campo del desarrollo web.
